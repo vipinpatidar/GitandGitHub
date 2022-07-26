@@ -1,0 +1,1 @@
+git log hang , for solve that problem press q 
