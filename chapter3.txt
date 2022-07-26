@@ -1,1 +1,1 @@
-staging area where all changes are commit 
+staging area where all changes are commit and it can differencat what file should ignore what file should commit to repositories
